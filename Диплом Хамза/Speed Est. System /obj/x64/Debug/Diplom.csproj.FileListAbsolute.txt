@@ -1,0 +1,295 @@
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.Form1.resources
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.Properties.Resources.resources
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\cef.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\cef_100_percent.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\cef_200_percent.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\cef_extensions.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\chrome_elf.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\d3dcompiler_47.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\devtools_resources.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\icudtl.dat
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\libcef.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\libEGL.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\libGLESv2.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\am.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ar.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\bg.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\bn.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ca.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\cs.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\da.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\de.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\el.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\en-GB.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\en-US.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\es-419.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\es.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\et.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\fa.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\fi.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\fil.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\fr.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\gu.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\he.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\hi.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\hr.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\hu.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\id.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\it.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ja.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\kn.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ko.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\lt.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\lv.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ml.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\mr.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ms.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\nb.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\nl.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\pl.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\pt-BR.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\pt-PT.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ro.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ru.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\sk.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\sl.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\sr.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\sv.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\sw.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\ta.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\te.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\th.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\tr.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\uk.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\vi.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\zh-CN.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\locales\zh-TW.pak
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\README.txt
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\snapshot_blob.bin
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\swiftshader\libEGL.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\swiftshader\libGLESv2.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\v8_context_snapshot.bin
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.Core.pdb
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.pdb
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.XML
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.WinForms.pdb
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\CefSharp.WinForms.XML
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\Diplom.exe.config
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\Diplom.exe
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\Diplom.pdb
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.exe
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.pdb
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.VideoFeedControl.resources
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\bin\x64\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.csproj.CopyComplete
+C:\Users\ikhamza\source\repos\Diplom\obj\x64\Debug\Diplom.NewVideoStream.resources
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\cef.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\cef_100_percent.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\cef_200_percent.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\cef_extensions.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\chrome_elf.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\d3dcompiler_47.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\devtools_resources.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\icudtl.dat
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\libcef.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\libEGL.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\libGLESv2.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\am.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ar.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\bg.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\bn.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ca.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\cs.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\da.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\de.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\el.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\en-GB.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\en-US.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\es-419.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\es.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\et.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\fa.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\fi.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\fil.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\fr.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\gu.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\he.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\hi.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\hr.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\hu.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\id.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\it.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ja.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\kn.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ko.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\lt.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\lv.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ml.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\mr.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ms.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\nb.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\nl.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\pl.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\pt-BR.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\pt-PT.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ro.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ru.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\sk.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\sl.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\sr.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\sv.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\sw.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\ta.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\te.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\th.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\tr.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\uk.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\vi.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\zh-CN.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\locales\zh-TW.pak
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\README.txt
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\snapshot_blob.bin
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\swiftshader\libEGL.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\swiftshader\libGLESv2.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\v8_context_snapshot.bin
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.Core.pdb
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.pdb
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.XML
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.WinForms.pdb
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\CefSharp.WinForms.XML
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\Diplom.exe.config
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\Diplom.exe
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\Diplom.pdb
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Data.v19.1.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.Form1.resources
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.NewVideoStream.resources
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.Properties.Resources.resources
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.VideoFeedControl.resources
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.csproj.CopyComplete
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.exe
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.pdb
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\obj\x64\Debug\Diplom.AboutForm.resources
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\x64\concrt140.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\x64\cvextern.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\cars.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ZedGraph.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ZedGraph.xml
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\taran\OneDrive\Рабочий стол\Diplom\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
